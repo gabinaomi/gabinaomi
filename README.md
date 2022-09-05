@@ -40,7 +40,7 @@ object **SEU NOME** {
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 
-[instagram]: https://www.instagram.com/gabrielaanomi_/
+[instagram]: https://www.instagram.com/gabrielanaomi_/
 [linkedin]: https://www.linkedin.com/in/gabrielanaomi/
 <br>
 
