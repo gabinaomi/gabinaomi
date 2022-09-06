@@ -1,8 +1,8 @@
 ### Hello devs 👋
 
-I have more than ten years' experience in software development, as well as, system analyst focused in the ERP Protheus. The challenging environments in which I've worked have taught to think clearly and fast to find a solution for the custormers' problems. During my career, I've developed a deep understanding of human reactions and how to interact with customers in a professional and polite way. Today I am mainly focused in frontend engineering.
+I have more than ten years' experience in software development, as well as, system analyst focused in the ERP Protheus. During my career, I've developed a deep understanding of human reactions and how to interact with customers in a professional and polite way. Today, I am mainly focused in frontend engineering.
 
-In my latest experience at Keycash, I had the opportunity to start working with a frontend team, creating products for the real state area using SPA technologies and even SSR applied when necessary.
+In my latest experience at Keycash, I had the opportunity to start working with a frontend team, creating products for the real estate credit area using SPA technologies and even SSR applied when necessary.
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
