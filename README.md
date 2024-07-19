@@ -1,8 +1,12 @@
 ### Hello devs 👋
 
-I have more than ten years' experience in software development, as well as, system analyst focused in the ERP Protheus. During my career, I've developed a deep understanding of human reactions and how to interact with customers in a professional and polite way. Today, I am mainly focused in frontend engineering.
+I am a professional with over ten years of experience in software development and system analysis, specializing in ERP Protheus and frontend engineering. Throughout my career, I have developed a deep understanding of human interactions and refined my skills in professional and courteous customer engagement. Currently, I am focused on product ownership, leveraging my technical background to bridge the gap between business objectives and technical execution. In my most recent experience at 360 Suítes, I have been responsible for defining and prioritizing the product backlog, aligning business objectives with stakeholder needs, and creating development strategies for Data Science products.
 
-In my latest experience at Keycash, I had the opportunity to start working with a frontend team, creating products for the real estate credit area using SPA technologies and even SSR applied when necessary.
+
+Sou um profissional com mais de dez anos de experiência em desenvolvimento de software e análise de sistemas, especializado em ERP Protheus e frontend engineering. Ao longo da minha carreira, desenvolvi uma compreensão profunda das interações humanas e refinei minhas habilidades em engajamento profissional e cortês com clientes. Atualmente, estou focado em gestão de produto, aproveitando meu background técnico para conectar os objetivos de negócios à execução técnica. Na minha experiência mais recente na 360 Suítes, tenho sido responsável por definir e priorizar o backlog do produto, alinhar os objetivos de negócios com as necessidades dos stakeholders e criar estratégias de desenvolvimento para produtos de Data Science.
+
+
+Je suis un professionnel avec plus de dix ans d'expérience en développement logiciel et analyse de systèmes, spécialisé dans l'ERP Protheus et frontend engineering. Tout au long de ma carrière, j'ai développé une compréhension profonde des interactions humaines et affiné mes compétences en engagement professionnel et courtois avec les clients. Actuellement, je me concentre sur la gestion de produit, en tirant parti de mon expérience technique pour combler le fossé entre les objectifs commerciaux et l'exécution technique. Dans mon expérience la plus récente chez 360 Suítes, j'ai été responsable de la définition et de la priorisation du backlog produit, de l'alignement des objectifs commerciaux avec les besoins des parties prenantes et de la création de stratégies de développement pour les produits de Data Science.
 
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
